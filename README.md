@@ -135,6 +135,21 @@ The dashboard contains:
 - Department-wise Attrition
 - Overtime vs Attrition
 
+## Streamlit Web Application
+
+A Streamlit-based web application has been developed to demonstrate real-time employee attrition prediction using the trained Random Forest model.
+
+Features:
+- Employee Attrition Prediction
+- User-friendly Interface
+- Random Forest Classifier
+- Real-time Prediction
+- Prediction Confidence Score
+
+Run the application using:
+
+streamlit run app.py
+
 ---
 
 ## Project Structure
@@ -162,7 +177,7 @@ Employee_Skill_Analytics_HR_Dashboard/
 │
 ├── README.md
 ├── requirements.txt
-└── main.py
+└── app.py
 ```
 
 ---
