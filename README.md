@@ -221,14 +221,14 @@ This project was developed as part of a group assignment for the Data Analytics 
 
 ### Home Page
 
-![Streamlit Home](images/screenshots/streamlit_home.png)
+![Streamlit Home](images//screenshots/streamlit_home.png)
 
 ### Prediction Example (Employee Stays)
 
-![Prediction Stay](images/screenshots/prediction_stay.png)
+![Prediction Stay](images//screenshots/prediction_stay.png)
 
 ### Prediction Example (Employee Leaves)
 
-![Prediction Leave](images/screenshots/prediction_leave.png)
+![Prediction Leave](images//screenshots/prediction_leave.png)
 
 
