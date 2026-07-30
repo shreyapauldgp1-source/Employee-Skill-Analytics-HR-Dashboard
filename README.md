@@ -208,3 +208,27 @@ Employee_Skill_Analytics_HR_Dashboard/
 
 This project was developed as part of a group assignment for the Data Analytics course.
 
+
+## Dashboard Preview
+
+### Power BI Dashboard
+
+![Dashboard](images/dashboard/dashboard.png)
+
+---
+
+## Web Application Preview
+
+### Home Page
+
+![Streamlit Home](images/screenshots/streamlit_home.png)
+
+### Prediction Example (Employee Stays)
+
+![Prediction Stay](images/screenshots/prediction_stay.png)
+
+### Prediction Example (Employee Leaves)
+
+![Prediction Leave](images/screenshots/prediction_leave.png)
+
+
